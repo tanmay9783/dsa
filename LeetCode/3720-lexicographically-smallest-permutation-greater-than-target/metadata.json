@@ -3,8 +3,8 @@
   "problem": "Lexicographically Smallest Permutation Greater Than Target",
   "problemNumber": 3720,
   "problemKey": "leetcode:3720",
-  "language": "java",
-  "url": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/solutions/?envType=daily-question&envId=2026-08-27",
+  "language": "c",
+  "url": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/?envType=daily-question&envId=2026-08-27",
   "savedBy": "9ae28a22-5984-4098-a750-39caa68f927c",
   "difficulty": "Medium"
 }
