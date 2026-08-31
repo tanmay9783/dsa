@@ -1,0 +1,10 @@
+{
+  "platform": "LeetCode",
+  "problem": "Minimum Jumps to Reach End via Prime Teleportation",
+  "problemNumber": 3629,
+  "problemKey": "leetcode:3629",
+  "language": "java",
+  "url": "https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/description/?envType=daily-question&envId=2026-08-31",
+  "savedBy": "9ae28a22-5984-4098-a750-39caa68f927c",
+  "difficulty": "Medium"
+}
