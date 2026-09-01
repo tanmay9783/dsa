@@ -3,7 +3,7 @@
   "problem": "Minimum Moves to Clean the Classroom",
   "problemNumber": 3568,
   "problemKey": "leetcode:3568",
-  "language": "java",
+  "language": "c",
   "url": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/?envType=daily-question&envId=2026-09-01",
   "savedBy": "9ae28a22-5984-4098-a750-39caa68f927c",
   "difficulty": "Medium"
